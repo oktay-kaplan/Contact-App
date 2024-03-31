@@ -1,4 +1,6 @@
-Getting Started
+## Contacts App with Java SpringBoot and JavaScript(Fetch api)
+
+## Getting Started
 
 To run this app locally, follow these steps:
 
