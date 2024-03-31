@@ -1,0 +1,7 @@
+com/example/rehber/repository/PersonRepo.class
+com/example/rehber/entity/PersonEntity.class
+com/example/rehber/model/Person.class
+com/example/rehber/RehberApplication.class
+com/example/rehber/service/concretes/ContactMenager.class
+com/example/rehber/service/abstracts/ContactService.class
+com/example/rehber/controller/PersonController.class
